@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/wp-content/themes/security-ajax/assets" libraries="{security-ajax.loc/wp-content/themes/security-bsd/assets/node_modules}" />
+    <file url="file://$PROJECT_DIR$/wp-content/themes/security-bsd/assets" libraries="{security-ajax.loc/wp-content/themes/security-bsd/assets/node_modules}" />
+  </component>
+</project>
